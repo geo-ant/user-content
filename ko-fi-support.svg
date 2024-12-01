@@ -15,7 +15,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title40">ko-fi-support</title><defs
      id="defs8"><inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect9"
@@ -112,8 +113,7 @@
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="true" /></sodipodi:namedview><title
-     id="title1">maintenance: actively-developed</title><linearGradient
+       visible="true" /></sodipodi:namedview><linearGradient
      id="s"
      x2="0"
      y2="1"><stop
@@ -163,7 +163,7 @@
          fill="#ff5a16"
          id="path7" /></g></g><metadata
      id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:title>maintenance: actively-developed</dc:title></cc:Work></rdf:RDF></metadata><text
+         rdf:about=""><dc:title>ko-fi-support</dc:title></cc:Work></rdf:RDF></metadata><text
      xml:space="preserve"
      style="font-size:53.3333px;font-family:Creepster;-inkscape-font-specification:Creepster;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#72a4f2;fill-opacity:1;stroke:none;stroke-width:1.21701"
      x="35"
