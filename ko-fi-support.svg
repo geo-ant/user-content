@@ -115,16 +115,7 @@
        fill="#ffffff"
        id="rect2"
        x="0"
-       y="0" /></clipPath><path
-     style="fill:#72a4f2;fill-opacity:1;stroke:none;stroke-width:1.21701"
-     id="rect8"
-     width="194"
-     height="20"
-     x="0"
-     y="0"
-     sodipodi:type="rect"
-     inkscape:path-effect="#path-effect9-1"
-     d="m 5,0 h 184 a 5,5 45 0 1 5,5 v 10 a 5,5 135 0 1 -5,5 H 5 A 5,5 45 0 1 0,15 V 5 A 5,5 135 0 1 5,0 Z" /><g
+       y="0" /></clipPath><g
      style="fill:none"
      id="g8"
      transform="matrix(0.09442423,0,0,0.09442423,6.4503111,0.75126885)"><g
